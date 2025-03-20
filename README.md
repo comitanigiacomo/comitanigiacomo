@@ -8,27 +8,37 @@
 
 ### 🛠️ Tech Stack
 
-#### 🖥️ Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+```typescript
+type TechStack = {
+  languages: string[];
+  databases: string[];
+  tools: string[];
+  markup: string[];
+  devOps: string[];
+  testing: string[];
+  webDevelopment: {
+    backend: string[];
+    frontend: string[];
+  };
+  architecture: string[];
+  challenge: string;
+};
 
-#### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-%2300A4DB.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-
-#### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-%232F4254.svg?style=flat&logo=insomnia&logoColor=white)
-
-#### 📄 Markup & Documentation
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
-![Typst](https://img.shields.io/badge/Typst-%23000000.svg?style=flat&logo=typst&logoColor=white)
-
+const techStack: TechStack = {
+  languages: ["Java", "Python", "C", "PHP", "JavaScript", "Go"],
+  databases: ["SQL", "MongoDB"],
+  tools: ["Git", "Linux", "Insomnia"],
+  markup: ["LaTeX", "Typst"],
+  devOps: ["Docker", "Kubernetes", "AWS"],
+  testing: ["JUnit", "Pytest"],
+  webDevelopment: {
+    backend: ["Node.js", "Express"],
+    frontend: ["React", "Vue"]
+  },
+  architecture: ["microservices", "event-driven", "monolithic"],
+  challenge: "Currently improving my skills in cloud computing and scalable architectures 🚀"
+};
+```
 
 ---
 
