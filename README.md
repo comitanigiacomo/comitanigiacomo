@@ -31,7 +31,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comitanigiacomo&layout=compact&theme=transparent&height=250" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comitanigiacomo&theme=transparent&hide_border=true" />
+  ![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=flat&logo=github)
 </p>
 
 ---
