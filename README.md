@@ -14,13 +14,11 @@ const techStack = {
   databases: ["SQL", "MongoDB"],
   tools: ["Git", "Linux", "Insomnia"],
   markup: ["LaTeX", "Typst"],
-  devOps: ["Docker", "Kubernetes", "AWS"],
-  testing: ["JUnit", "Pytest"],
+  devOps: ["Docker"],
   webDevelopment: {
-    backend: ["Node.js", "Express"],
-    frontend: ["React", "Vue"]
+    backend: ["Node.js"],
+    frontend: ["React", "HTML5", "CSS"]
   },
-  architecture: ["microservices", "event-driven", "monolithic"],
   challenge: "Currently improving my skills in machine learning and AI 🚀"
 };
 ```
