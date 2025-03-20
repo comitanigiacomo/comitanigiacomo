@@ -2,8 +2,6 @@
 
 🚀 **Computer Science Student | Tech Enthusiast | Open Source Contributor**
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=comitanigiacomo&color=blue&style=flat)
-
 ---
 
 ### 🛠️ Tech Stack
