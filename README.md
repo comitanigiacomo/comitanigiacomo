@@ -53,6 +53,6 @@ const techStack = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=500&color=00ADEF&vCenter=true&width=700&lines=Code+is+like+humor...;When+you+have+to+explain+it,+it%E2%80%99s+bad." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=200&color=00ADEF&vCenter=true&width=700&lines=Code+is+like+humor...;When+you+have+to+explain+it,+it%E2%80%99s+bad." />
 </p>
 
