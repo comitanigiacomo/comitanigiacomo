@@ -53,6 +53,6 @@ const techStack = {
 ---
 
 <p align="center">
-  *code is like humor... when you have to explain its bad*
+  _code is like humor... when you have to explain it its bad_
 </p>
 
