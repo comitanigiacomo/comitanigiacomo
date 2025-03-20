@@ -6,25 +6,12 @@
 
 ---
 
-### 🛠️ Tech Stack
+<details>
+  <summary>🛠️ Click to expand Tech Stack</summary>
+</details>
 
-```typescript
-type TechStack = {
-  languages: string[];
-  databases: string[];
-  tools: string[];
-  markup: string[];
-  devOps: string[];
-  testing: string[];
-  webDevelopment: {
-    backend: string[];
-    frontend: string[];
-  };
-  architecture: string[];
-  challenge: string;
-};
-
-const techStack: TechStack = {
+```javascript
+const techStack = {
   languages: ["Java", "Python", "C", "PHP", "JavaScript", "Go"],
   databases: ["SQL", "MongoDB"],
   tools: ["Git", "Linux", "Insomnia"],
