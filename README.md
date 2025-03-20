@@ -6,9 +6,7 @@
 
 ---
 
-<details>
-  <summary>🛠️ Click to expand Tech Stack</summary>
-</details>
+### 🛠️ Tech Stack
 
 ```javascript
 const techStack = {
@@ -23,10 +21,9 @@ const techStack = {
     frontend: ["React", "Vue"]
   },
   architecture: ["microservices", "event-driven", "monolithic"],
-  challenge: "Currently improving my skills in cloud computing and scalable architectures 🚀"
+  challenge: "Currently improving my skills in machine learning and AI 🚀"
 };
 ```
-
 ---
 
 ### 📊 GitHub Stats
