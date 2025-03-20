@@ -2,6 +2,8 @@
 
 🚀 **Computer Science Student | Tech Enthusiast | Open Source Contributor**
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=comitanigiacomo&color=blue&style=flat)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -15,6 +17,10 @@
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-%232F4254.svg?style=flat&logo=insomnia&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-%23000000.svg?style=flat&logo=typst&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -24,16 +30,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=comitanigiacomo&show_icons=true&theme=transparent&height=250" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comitanigiacomo&layout=compact&theme=transparent&height=250" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=comitanigiacomo&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ### 🔥 Currently Working On
 
-- Daily LeetCode problems: [Leetcode](https://github.com/comitanigiacomo/leetcode)
-- Appunti di Reti di Calcolatori: [Appunti](https://github.com/comitanigiacomo/Reti_di_calcolatori)
-- Studying Statistics and Data Analysis at UniMI
-- Studying Software Engineering at UniMI
+- 🎯 **Daily LeetCode problems** → [Leetcode](https://github.com/comitanigiacomo/leetcode)
+- 📖 **Creating Lecture's Notes On Reti di Calcolatori** → [Appunti](https://github.com/comitanigiacomo/Reti_di_calcolatori)
+- 📊 **Studying Statistics and Data Analysis @ UniMI**
+- 💻 **Studying Software Engineering @ UniMI**
+- 🌍 **Exploring Machine Learning and AI**
 
 ---
 
