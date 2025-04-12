@@ -36,7 +36,7 @@ const techStack = {
 ### 🔥 Currently Working On
 
 - 🎯 **Daily LeetCode problems** → [Leetcode](https://github.com/comitanigiacomo/leetcode)
-- 📖 **Creating Lecture's Notes On Reti di Calcolatori** → [Appunti](https://github.com/comitanigiacomo/Reti_di_calcolatori)
+- 📖 **Creating my first gnome extension**
 - 📊 **Studying Statistics and Data Analysis @ UniMI**
 - 💻 **Studying Software Engineering @ UniMI**
 - 🌍 **Exploring Machine Learning and AI**
