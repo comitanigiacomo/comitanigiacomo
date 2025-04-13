@@ -17,7 +17,7 @@ const techStack = {
     backend: ["Node.js"],
     frontend: ["React", "HTML5", "CSS"]
   },
-  challenge: "Currently improving my skills in machine learning and AI 🚀"
+  challenge: "Currently improving my skills in reverse engineering 🚀"
 };
 ```
 ---
