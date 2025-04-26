@@ -26,7 +26,6 @@ const techStack = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=comitanigiacomo&show_icons=true&theme=transparent&height=250" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comitanigiacomo&layout=compact&theme=transparent&height=250" />
   <br>
 </p>
