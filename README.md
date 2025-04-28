@@ -38,7 +38,7 @@ const techStack = {
 - 📖 **Creating my first gnome extension**
 - 📊 **Studying Statistics and Data Analysis @ UniMI**
 - 💻 **Studying Software Engineering @ UniMI**
-- 🌍 **Exploring Machine Learning and AI**
+- 🌍 **Exploring Reverse Engineering**
 
 ---
 
