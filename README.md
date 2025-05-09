@@ -35,7 +35,7 @@ const techStack = {
 ### 🔥 Currently Working On
 
 - 🎯 **Daily LeetCode problems** → [Leetcode](https://github.com/comitanigiacomo/leetcode)
-- 📖 **Creating my first gnome extension**
+- 📖 **Maintaining my first gnome extension** → [Quicklaunch](https://github.com/comitanigiacomo/quicklaunch)
 - 📊 **Studying Statistics and Data Analysis @ UniMI**
 - 💻 **Studying Software Engineering @ UniMI**
 - 🌍 **Exploring Reverse Engineering**
