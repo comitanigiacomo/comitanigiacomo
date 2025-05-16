@@ -2,6 +2,10 @@
 
 🚀 **Computer Science Student | Tech Enthusiast | Open Source Contributor**
 
+## Portfolio
+
+Click [Here](https://jacksdeepmind.netlify.app/) to see my projects.
+
 ---
 
 ### 🛠️ Tech Stack
