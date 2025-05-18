@@ -12,7 +12,7 @@ Click [Here](https://jacksdeepmind.netlify.app/) to see my projects.
 
 ```javascript
 const techStack = {
-  languages: ["Java", "Python", "C", "PHP", "JavaScript", "Go"],
+  languages: ["Java", "Python", "C", "PHP", "JavaScript", "Go", "PLpgSQL"],
   databases: ["SQL", "MongoDB"],
   tools: ["Git", "Linux", "Insomnia"],
   markup: ["LaTeX", "Typst"],
