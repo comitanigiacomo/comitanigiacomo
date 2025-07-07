@@ -42,6 +42,10 @@ const techStack = {
 
 ---
 
+![Snake animation](https://github.com/comitanigiacomo/comitanigiacomo/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">
   _code is like humor... when you have to explain it its bad_
 </p>
