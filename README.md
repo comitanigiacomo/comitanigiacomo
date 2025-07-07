@@ -42,7 +42,7 @@ const techStack = {
 
 ---
 
-![Snake animation](https://github.com/comitanigiacomo/comitanigiacomo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/comitanigiacomo/comitanigiacomo/output/snk/github-contribution-grid-snake.svg)
 
 ---
 
