@@ -42,15 +42,6 @@ const techStack = {
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/comitanigiacomo/snk/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/comitanigiacomo/snk/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/comitanigiacomo/comitanigiacomo/output/snk/github-snake.svg" />
-</picture>
-
-
----
-
 <p align="center">
   _code is like humor... when you have to explain it its bad_
 </p>
