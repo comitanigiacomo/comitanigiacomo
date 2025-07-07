@@ -1,14 +1,9 @@
 ### Hi there, I'm Giacomo 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <strong>Computer Science Student | Tech Enthusiast | Open Source Contributor</strong><br>
-    If you wanna read my latest thoughts and projects, check out my 
-    <a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>
-  </div>
-  <img src="./zenitsu.png" alt="zenitsu" width="200" />
-</div>
 
+**Computer Science Student | Tech Enthusiast | Open Source Contributor**
+
+If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/)
 
 ---
 
