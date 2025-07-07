@@ -44,11 +44,27 @@ const techStack = {
 ---
 
 <!--commits-start-->
-## Ultimi commit pubblici
+## 📌 Ultimi commit pubblici
 
-- [adventOfCode24](https://github.com/comitanigiacomo/adventOfCode24): [add: implement solution for day 8 in part2.py](https://github.com/comitanigiacomo/adventOfCode24/commit/7bf4ed572a95bf4f7b802a2b4bab445e88b14629) in `day8` (2024-12-15)
-- [adventOfCode24](https://github.com/comitanigiacomo/adventOfCode24): [add: implement solution for day 8 in part1.py](https://github.com/comitanigiacomo/adventOfCode24/commit/f08c078addaf7f0bfa4bab18198d4d5210d24801) in `day8` (2024-12-15)
-- [adventOfCode24](https://github.com/comitanigiacomo/adventOfCode24): [add: update README.md to include solution link for day 8](https://github.com/comitanigiacomo/adventOfCode24/commit/3ab8c4569e5bb3417a4f0fc34aa48b81d9c7a011) in `README.md` (2024-12-15)
+### 📂 [comitanigiacomo](https://github.com/comitanigiacomo/comitanigiacomo)
+- 📝 [Update update-commits.yml](https://github.com/comitanigiacomo/comitanigiacomo/commit/07e4fbd90b24c29467db19942a293dd8ccff4d8e) in `.github` ⏱️ 2025-07-07
+- 📝 [Aggiorna ultimi commit pubblici](https://github.com/comitanigiacomo/comitanigiacomo/commit/b5f4f1aab568c863224ed2ec3b9c95be7bad69b5) in `README.md` ⏱️ 2025-07-07
+- 📝 [Update README.md](https://github.com/comitanigiacomo/comitanigiacomo/commit/556e8b600103506390b164e44c0d936d49448b6c) in `README.md` ⏱️ 2025-07-07
+
+### 📂 [deep_mind](https://github.com/comitanigiacomo/deep_mind)
+- 📝 [🔄 Aggiorna repo_stats.json](https://github.com/comitanigiacomo/deep_mind/commit/ea0db01cb4e8a45371a96b39366bf691fed96330) in `public` ⏱️ 2025-07-07
+- 📝 [🔄 Aggiorna repo_stats.json](https://github.com/comitanigiacomo/deep_mind/commit/d457aae4b3aef1754aedfddcc37a9628f8ba3a72) in `public` ⏱️ 2025-07-06
+- 📝 [Update skils.zip with latest resources and improvements](https://github.com/comitanigiacomo/deep_mind/commit/1e0866ee33bd9bcc887d4c28946096b264bf0b1f) in `public` ⏱️ 2025-07-05
+
+### 📂 [quicklaunch](https://github.com/comitanigiacomo/quicklaunch)
+- 📝 [fix(ui): refactor long press timeout handling in AppPinner](https://github.com/comitanigiacomo/quicklaunch/commit/d4710d52acdf508643a87114f1ec2e695992ec89) in `src` ⏱️ 2025-06-29
+- 📝 [fix(ui): manage long press timeout in app pinner lifecycle](https://github.com/comitanigiacomo/quicklaunch/commit/69d073a93249da7f7bc6a8976ea687e603947c46) in `src` ⏱️ 2025-06-29
+- 📝 [fix(ui): clear long press timeout on button press event](https://github.com/comitanigiacomo/quicklaunch/commit/6e93a92a3e256a07b35ffd9725e287c29701af1f) in `src` ⏱️ 2025-06-29
+
+### 📂 [TankCheck](https://github.com/comitanigiacomo/TankCheck)
+- 📝 [Remove unused screen image from repository](https://github.com/comitanigiacomo/TankCheck/commit/64620075d1c2b8dc5cbb3cf35bc4400f285eda1b) in `public` ⏱️ 2025-06-29
+- 📝 [Update mockup image for documentation](https://github.com/comitanigiacomo/TankCheck/commit/04c57a540271b924b6d1d9fdbdffe01fd408125c) in `public` ⏱️ 2025-06-29
+- 📝 [Add mockup image for use in documentation](https://github.com/comitanigiacomo/TankCheck/commit/d91e7831b492888fbd63dea5b703e5003ae5aa28) in `public` ⏱️ 2025-06-29
 
 <!--commits-end-->
 
