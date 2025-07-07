@@ -1,10 +1,13 @@
 ### Hi there, I'm Giacomo 👋
 
-**Computer Science Student | Tech Enthusiast | Open Source Contributor**
 
-If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/)
-
-<img src="./zenitsu.png" alt="zenitsu" width="200" style="float: right; margin-right: 10px;" />
+<div style="display: flex; align-items: center; justify-content: space-between; max-width: 600px;">
+  <div>
+    <strong>Computer Science Student | Tech Enthusiast | Open Source Contributor</strong><br>
+    If you wanna read my latest thoughts and projects, check out my <a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>
+  </div>
+  <img src="./zenitsu.png" alt="zenitsu" width="60" style="margin-left: 10px;" />
+</div>
 
 ---
 
