@@ -44,6 +44,11 @@ const techStack = {
 ---
 
 <!--commits-start-->
+## Ultimi commit pubblici
+
+- [adventOfCode24](https://github.com/comitanigiacomo/adventOfCode24): [add: implement solution for day 8 in part2.py](https://github.com/comitanigiacomo/adventOfCode24/commit/7bf4ed572a95bf4f7b802a2b4bab445e88b14629) in `day8` (2024-12-15)
+- [adventOfCode24](https://github.com/comitanigiacomo/adventOfCode24): [add: implement solution for day 8 in part1.py](https://github.com/comitanigiacomo/adventOfCode24/commit/f08c078addaf7f0bfa4bab18198d4d5210d24801) in `day8` (2024-12-15)
+- [adventOfCode24](https://github.com/comitanigiacomo/adventOfCode24): [add: update README.md to include solution link for day 8](https://github.com/comitanigiacomo/adventOfCode24/commit/3ab8c4569e5bb3417a4f0fc34aa48b81d9c7a011) in `README.md` (2024-12-15)
 
 <!--commits-end-->
 
