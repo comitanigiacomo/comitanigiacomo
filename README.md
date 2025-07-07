@@ -4,9 +4,9 @@
 
 If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/)
 
-<div style="text-align: center;">
+<p align="center">
   <img src="./zenitsu.png" alt="zenitsu" width="200" />
-</div>
+</p>
 
 ---
 
