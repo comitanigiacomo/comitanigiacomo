@@ -23,7 +23,7 @@ jobs:
       - name: Recupera ultimi commit pubblici e aggiorna README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER: "comitanigiacomo"  
+          GITHUB_USER: "comitanigiacomo"
         run: |
           python3 << 'EOF'
           import os
@@ -34,23 +34,21 @@ jobs:
           token = os.environ['GITHUB_TOKEN']
           headers = {'Authorization': f'token {token}'}
 
-         
-          repos_url = f'https://api.github.com/users/{user}/repos?per_page=100&type=public'
-          repos = requests.get(repos_url, headers=headers).json()
+          repos_url = f'https://api.github.com/users/{user}/repos?per_page=100&type=public&sort=updated'
+          repos = requests.get(repos_url, headers=headers).json()[:4]
 
-          output = "## Ultimi commit pubblici\n\n"
-
-          count_commits = 0
-          max_commits = 3
+          output = "## 📌 Ultimi commit pubblici\n\n"
+          commits_per_repo = 3
 
           for repo in repos:
               repo_name = repo['name']
-              commits_url = f'https://api.github.com/repos/{user}/{repo_name}/commits?per_page=3'
+              repo_url = repo['html_url']
+              output += f"### 📂 [{repo_name}]({repo_url})\n"
+
+              commits_url = f'https://api.github.com/repos/{user}/{repo_name}/commits?per_page={commits_per_repo}'
               commits = requests.get(commits_url, headers=headers).json()
 
               for commit in commits:
-                  if count_commits >= max_commits:
-                      break
                   sha = commit['sha']
                   message = commit['commit']['message'].split('\n')[0]
                   date_str = commit['commit']['committer']['date']
@@ -58,35 +56,21 @@ jobs:
                   short_date = date.strftime('%Y-%m-%d')
                   url = commit['html_url']
 
-                  
                   files_url = f'https://api.github.com/repos/{user}/{repo_name}/commits/{sha}'
                   commit_details = requests.get(files_url, headers=headers).json()
                   files = commit_details.get('files', [])
-
-                  
-                  folders = set()
-                  for f in files:
-                      path = f['filename']
-                      folder = path.split('/')[0]
-                      folders.add(folder)
-
+                  folders = set(f['filename'].split('/')[0] for f in files)
                   folders_str = ', '.join(folders) if folders else 'root'
 
-                  output += f"- [{repo_name}]({repo['html_url']}): [{message}]({url}) in `{folders_str}` ({short_date})\n"
+                  output += f"- 📝 [{message}]({url}) in `{folders_str}` ⏱️ {short_date}\n"
+              output += "\n"
 
-                  count_commits += 1
-              if count_commits >= max_commits:
-                  break
-
-          
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
-
-          
           import re
-          new_block = f"<!--commits-start-->\n{output}\n<!--commits-end-->"
-          content_new = re.sub(r'<!--commits-start-->.*<!--commits-end-->', new_block, content, flags=re.DOTALL)
-
+          new_block = f"<!--commits-start-->\n{output}<!--commits-end-->"
+          content_new = re.sub(r'<!--commits-start-->.*<!--commits-end-->', new_block,
+                               content, flags=re.DOTALL)
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(content_new)
           EOF
