@@ -4,7 +4,9 @@
 
 If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/)
 
-![zenitsu](./zenitsu.png)
+<span style="float: right; width: 60px; margin-left: 10px;">
+  <img src="./zenitsu.png" alt="zenitsu" style="width: 100%; height: auto;">
+</span>
 
 ---
 
