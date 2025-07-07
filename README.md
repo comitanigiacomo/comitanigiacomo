@@ -1,16 +1,8 @@
 ### Hi there, I'm Giacomo 👋
 
+**Computer Science Student | Tech Enthusiast | Open Source Contributor**
 
-<img src="./zenitsu.png" alt="zenitsu" width="200" style="float: right; margin-left: 15px; margin-bottom: 10px;" />
-
-<p><strong>Computer Science Student | Tech Enthusiast | Open Source Contributor</strong></p>
-
-<p>
-If you wanna read my latest thoughts and projects, check out my 
-<a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>.  
-Here I share technical explorations, open source experiments, and thoughts about learning and creativity in computer science.
-</p>
-
+If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/)
 
 ---
 
