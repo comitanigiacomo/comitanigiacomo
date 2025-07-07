@@ -2,11 +2,9 @@
 
 **Computer Science Student | Tech Enthusiast | Open Source Contributor**
 
-<p align="right">
+If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/) <p align="right">
   <img src="./zenitsu.png" alt="zenitsu" width="200" />
 </p>
-
-If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/)
 
 ---
 
