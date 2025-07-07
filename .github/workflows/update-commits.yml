@@ -34,7 +34,7 @@ jobs:
           token = os.environ['GITHUB_TOKEN']
           headers = {'Authorization': f'token {token}'}
 
-          # Ottieni repo pubblici
+         
           repos_url = f'https://api.github.com/users/{user}/repos?per_page=100&type=public'
           repos = requests.get(repos_url, headers=headers).json()
 
