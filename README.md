@@ -4,6 +4,8 @@
 
 If you wanna read my latest thoughts and projects, check out my [Deep Mind](https://jacksdeepmind.netlify.app/)
 
+![zenitsu](./zenitsu.png)
+
 ---
 
 ### Tech Stack
