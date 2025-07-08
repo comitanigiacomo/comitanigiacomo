@@ -1,6 +1,6 @@
 ### Hi there, I'm Giacomo 👋
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <h3>Computer Science Student | Tech Enthusiast | Open Source Contributor</h3>
@@ -9,7 +9,7 @@
         <a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>
       </p>
     </td>
-    <td>
+    <td align="right">
       <img src="./zenitsu.png" alt="Zenitsu" width="150" />
     </td>
   </tr>
