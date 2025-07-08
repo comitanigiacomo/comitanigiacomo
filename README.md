@@ -1,17 +1,20 @@
 ### Hi there, I'm Giacomo 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+  <tr>
+    <td>
+      <h3>Computer Science Student | Tech Enthusiast | Open Source Contributor</h3>
+      <p>
+        If you wanna read my latest thoughts and projects, check out my
+        <a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>
+      </p>
+    </td>
+    <td>
+      <img src="./zenitsu.png" alt="Zenitsu" width="150" />
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <h3>Computer Science Student | Tech Enthusiast | Open Source Contributor</h3>
-    <p>
-      If you wanna read my latest thoughts and projects, check out my
-      <a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>
-    </p>
-  </div>
-
-  <img src="./zenitsu.png" alt="Zenitsu" style="width: 150px; margin-left: 20px;" />
-</div>
 
 
 
