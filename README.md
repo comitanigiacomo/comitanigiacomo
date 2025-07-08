@@ -46,18 +46,6 @@ const techStack = {
 
 ---
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ncqg3yrtjnp65hxdh4gxuzp62q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=1c71d8&bar_color_cover=true" 
-      alt="spotify-github-profile" 
-      width="250"
-    />
-  </a>
-</p>
-
----
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-comitani-249384326)
