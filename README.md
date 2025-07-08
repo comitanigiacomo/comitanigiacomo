@@ -60,8 +60,10 @@ const techStack = {
 
 ### Connect with Me
 
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-comitani-249384326)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:comitanigiacomo@example.com)
+</p>
 
 ---
 
