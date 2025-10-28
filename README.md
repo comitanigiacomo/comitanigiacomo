@@ -40,8 +40,7 @@ const techStack = {
 - **Daily LeetCode problems** → [Leetcode](https://github.com/comitanigiacomo/leetcode)
 - **Maintaining my first GNOME extension** → [Quicklaunch](https://github.com/comitanigiacomo/quicklaunch)
 - **Maintaining my website portfolio** → [Deep Mind](https://github.com/comitanigiacomo/deep_mind)
-- **Studying Statistics and Data Analysis @ UniMI**
-- **Studying Software Engineering @ UniMI**
+- **Exploring Neural Networks**
 - **Exploring Reverse Engineering**
 
 ---
