@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td>
-      <h3>Computer Science Student  Tech Enthusiast | Open Source Contributor</h3>
+      <h3>Computer Science Student | Tech Enthusiast | Open Source Contributor</h3>
       <p align="center">
         If you wanna read my latest thoughts and projects, check out my
         <a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>
