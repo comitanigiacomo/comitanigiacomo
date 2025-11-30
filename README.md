@@ -10,7 +10,7 @@
       </p>
     </td>
     <td align="right">
-      <img src="./deku.png" alt="Zenitsu" width="150" />
+      <img src="./david.png" alt="cyberpunk" width="150" />
     </td>
   </tr>
 </table>
