@@ -10,7 +10,7 @@
       </p>
     </td>
     <td align="right">
-      <img src="./david.png" alt="cyberpunk" width="150" />
+      <img src="./david.png" alt="cyberpunk" width="600" />
     </td>
   </tr>
 </table>
