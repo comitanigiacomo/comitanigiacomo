@@ -1,4 +1,4 @@
-### Hi there, I'm Giacomo 👋
+### <center>Hi there, I'm Giacomo 👋
 
 <table width="100%">
   <tr>
