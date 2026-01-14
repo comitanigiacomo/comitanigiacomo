@@ -30,7 +30,7 @@ const techStack = {
     backend: ["Node.js"],
     frontend: ["React", "HTML5", "CSS"]
   },
-  challenge: "Currently improving my skills in reverse engineering"
+  challenge: "Focusing on the mathematical foundations of Computer Science and ML"
 };
 ```
 ---
@@ -40,8 +40,8 @@ const techStack = {
 - **Daily LeetCode problems** → [Leetcode](https://github.com/comitanigiacomo/leetcode)
 - **Maintaining my first GNOME extension** → [Quicklaunch](https://github.com/comitanigiacomo/quicklaunch)
 - **Maintaining my website portfolio** → [Deep Mind](https://github.com/comitanigiacomo/deep_mind)
-- **Exploring Neural Networks**
-- **Exploring Reverse Engineering**
+- **Studying Algorithms for massive datasets - UNIMI**
+- **Studying statistical methods for machine learning - UNIMI**
 
 ---
 
