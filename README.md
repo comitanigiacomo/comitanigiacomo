@@ -6,7 +6,7 @@
       <h3>Computer Science Student | Tech Enthusiast | Open Source Contributor</h3>
       <p align="center">
         If you wanna read my latest thoughts and projects, check out my
-        <a href="https://jacksdeepmind.netlify.app/">Deep Mind</a>
+        <a href="https://portfolio.jack-lab.dev/">Deep Mind</a>
       </p>
     </td>
     <td align="right">
