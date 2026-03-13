@@ -1,52 +1,9 @@
-### Hi there, I'm Giacomo 👋
+# Giacomo Comitani
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3>Computer Science Student | Tech Enthusiast | Open Source Contributor</h3>
-      <p align="center">
-        If you wanna read my latest thoughts and projects, check out my
-        <a href="https://portfolio.jack-lab.dev/">Deep Mind</a>
-      </p>
-    </td>
-    <td align="right">
-      <img src="./david.png" alt="cyberpunk" width="150" />
-    </td>
-  </tr>
-</table>
+Computer Science student @ UNIMI, Milan. → [Portfolio](https://portfolio.jack-lab.dev/)
 
----
-
-### Tech Stack
-
-```javascript
-const techStack = {
-  languages: ["Java", "Python", "C", "PHP", "JavaScript", "Go", "PLpgSQL"],
-  databases: ["SQL", "MongoDB"],
-  tools: ["Git", "Linux", "Insomnia"],
-  markup: ["LaTeX", "Typst"],
-  devOps: ["Docker"],
-  webDevelopment: {
-    backend: ["Node.js"],
-    frontend: ["React", "HTML5", "CSS"]
-  },
-  challenge: "Focusing on the mathematical foundations of Computer Science and ML"
-};
-```
----
-
-### Currently Working On
-
-- **Daily LeetCode problems** → [Leetcode](https://github.com/comitanigiacomo/leetcode)
-- **Maintaining my first GNOME extension** → [Quicklaunch](https://github.com/comitanigiacomo/quicklaunch)
-- **Maintaining my website portfolio** → [Deep Mind](https://github.com/comitanigiacomo/deep_mind)
-- **Studying Algorithms for massive datasets - UNIMI**
-- **Studying statistical methods for machine learning - UNIMI**
-
----
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-comitani-249384326)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:comitanigiacomo@example.com)
-
+### Focus
+- **[Kanso](https://github.com/comitanigiacomo/kanso-sync-engine)** — Offline-first sync engine (Go, Postgres, Redis).
+- **[Quicklaunch](https://github.com/comitanigiacomo/quicklaunch)** — Top-bar dock extension for GNOME Shell.
+- **[Deep Mind](https://github.com/comitanigiacomo/deep_mind)** — Personal portfolio source.
+- **Studies** — Algorithms for massive datasets & Statistical methods for ML.
