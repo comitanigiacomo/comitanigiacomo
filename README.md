@@ -1,4 +1,4 @@
-Computer Science student @ UNIMI, Milan. → [Portfolio](https://portfolio.jack-lab.dev/)
+Computer Science student @UNIMI, Milan. → [Portfolio](https://portfolio.jack-lab.dev/)
 
 ### Focus
 - **[Kanso](https://github.com/comitanigiacomo/kanso-sync-engine)** — Offline-first sync engine (Go, Postgres, Redis).
