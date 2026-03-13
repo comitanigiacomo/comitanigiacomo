@@ -1,5 +1,3 @@
-# Giacomo Comitani
-
 Computer Science student @ UNIMI, Milan. → [Portfolio](https://portfolio.jack-lab.dev/)
 
 ### Focus
